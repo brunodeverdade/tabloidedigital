@@ -152,7 +152,7 @@
     </style>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            fetch('https://brunodeverdade.github.io/tabloidedigital/ofertas.json')
+            fetch('https://brunodeverdade.github.io/tabloidedigital/ofertas_convertidas.json')
                 .then(response => response.json())
                 .then(data => {
                     Object.keys(data).forEach(categoria => {

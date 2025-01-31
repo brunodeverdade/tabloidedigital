@@ -1,7 +1,7 @@
 {
-    "Beleza e Saúde":[
+    "beleza-saude":[
         {
-            "categoria":"Beleza e Saúde",
+            "categoria":"beleza-saude",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -11,7 +11,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Beleza e Saúde",
+            "categoria":"beleza-saude",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -21,7 +21,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Beleza e Saúde",
+            "categoria":"beleza-saude",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -31,7 +31,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Beleza e Saúde",
+            "categoria":"beleza-saude",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
@@ -41,9 +41,9 @@
             "cta":"COMPRE PELO WHATSAPP"
         }
     ],
-    "Cama Box":[
+    "cama-box":[
         {
-            "categoria":"Cama Box",
+            "categoria":"cama-box",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -53,7 +53,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Cama Box",
+            "categoria":"cama-box",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -63,7 +63,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Cama Box",
+            "categoria":"cama-box",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -73,7 +73,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Cama Box",
+            "categoria":"cama-box",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
@@ -83,9 +83,9 @@
             "cta":"COMPRE PELO WHATSAPP"
         }
     ],
-    "Eletrodoméstico":[
+    "esporte-lazer":[
         {
-            "categoria":"Eletrodoméstico",
+            "categoria":"esporte-lazer",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -95,7 +95,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Eletrodoméstico",
+            "categoria":"esporte-lazer",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -105,7 +105,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Eletrodoméstico",
+            "categoria":"esporte-lazer",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -115,7 +115,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Eletrodoméstico",
+            "categoria":"esporte-lazer",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
@@ -125,9 +125,9 @@
             "cta":"COMPRE PELO WHATSAPP"
         }
     ],
-    "Esporte e Lazer":[
+    "moveis":[
         {
-            "categoria":"Esporte e Lazer",
+            "categoria":"moveis",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -137,7 +137,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Esporte e Lazer",
+            "categoria":"moveis",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -147,7 +147,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Esporte e Lazer",
+            "categoria":"moveis",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -157,7 +157,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Esporte e Lazer",
+            "categoria":"moveis",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
@@ -167,9 +167,9 @@
             "cta":"COMPRE PELO WHATSAPP"
         }
     ],
-    "Móveis":[
+    "portateis":[
         {
-            "categoria":"Móveis",
+            "categoria":"portateis",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -179,7 +179,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Móveis",
+            "categoria":"portateis",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -189,7 +189,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Móveis",
+            "categoria":"portateis",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -199,7 +199,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Móveis",
+            "categoria":"portateis",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
@@ -209,9 +209,9 @@
             "cta":"COMPRE PELO WHATSAPP"
         }
     ],
-    "Portáteis":[
+    "tecnologia":[
         {
-            "categoria":"Portáteis",
+            "categoria":"tecnologia",
             "titulo":"Sofá Beirut 3 lugares ",
             "codigo":73204,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
@@ -221,7 +221,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Portáteis",
+            "categoria":"tecnologia",
             "titulo":"Estante Caemmun Formosa 2.1 MDP",
             "codigo":68707,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
@@ -231,7 +231,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Portáteis",
+            "categoria":"tecnologia",
             "titulo":"Conjunto de Mesa Dulce ",
             "codigo":68630,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
@@ -241,49 +241,7 @@
             "cta":"COMPRE PELO WHATSAPP"
         },
         {
-            "categoria":"Portáteis",
-            "titulo":"Climatizador de Ar Philco",
-            "codigo":68826,
-            "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
-            "preco_destaque":75.99,
-            "condicao_pagamento":"Mensais em 1+15 no carnê MM ou ",
-            "total_a_prazo":1215.84,
-            "cta":"COMPRE PELO WHATSAPP"
-        }
-    ],
-    "Tecnologia":[
-        {
-            "categoria":"Tecnologia",
-            "titulo":"Sofá Beirut 3 lugares ",
-            "codigo":73204,
-            "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/934006-1600-auto?v=638608897954630000&width=1600&height=auto&aspect=true",
-            "preco_destaque":399.0,
-            "condicao_pagamento":"Mensais em 1+15 no carnê MM ou ",
-            "total_a_prazo":6399.84,
-            "cta":"COMPRE PELO WHATSAPP"
-        },
-        {
-            "categoria":"Tecnologia",
-            "titulo":"Estante Caemmun Formosa 2.1 MDP",
-            "codigo":68707,
-            "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/543240-1600-auto?v=638289355871770000&width=1600&height=auto&aspect=true",
-            "preco_destaque":109.99,
-            "condicao_pagamento":"Mensais em 1+15 no carnê MM ou ",
-            "total_a_prazo":1759.84,
-            "cta":"COMPRE PELO WHATSAPP"
-        },
-        {
-            "categoria":"Tecnologia",
-            "titulo":"Conjunto de Mesa Dulce ",
-            "codigo":68630,
-            "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/570570-1600-auto?v=638310164979700000&width=1600&height=auto&aspect=true",
-            "preco_destaque":169.99,
-            "condicao_pagamento":"Mensais em 1+15 no carnê MM ou ",
-            "total_a_prazo":2719.84,
-            "cta":"COMPRE PELO WHATSAPP"
-        },
-        {
-            "categoria":"Tecnologia",
+            "categoria":"tecnologia",
             "titulo":"Climatizador de Ar Philco",
             "codigo":68826,
             "imagem":"https:\/\/lojamm.vtexassets.com\/arquivos\/ids\/571713-1600-auto?v=638313440086270000&width=1600&height=auto&aspect=true",
